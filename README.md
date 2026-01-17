@@ -62,7 +62,7 @@ A tool to:
 
 ---
 
-#  Smart Number Guessing Game
+###  Smart Number Guessing Game
 A tool to:
 -  Random number generation
 -  Multiple difficulty levels
